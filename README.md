@@ -6,7 +6,7 @@ sensor, ESP32 menghidupkan pompa mini lewat relay selama 0,8 detik, lalu
 pompa mati dan masuk masa jeda supaya sabun tidak keluar terus-menerus.
 LED hijau menyala selama pompa menyemprot.
 
-Video penjelasan (60 detik): link menyusul setelah upload.
+Video penjelasan (60 detik): https://youtube.com/shorts/_9wFn7ajvd4
 
 ## Yang dipakai
 
